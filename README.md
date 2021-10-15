@@ -1,6 +1,6 @@
 # FlyRandom
 
-[English README](#FlyRandom English README)
+[English README](https://github.com/FlyRandom/FlyRandom#flyrandom-english-readme)
 
 **轻巧、快速、全能的随机数生成器**
 
