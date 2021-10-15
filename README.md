@@ -1,6 +1,6 @@
 # FlyRandom
 
-[English README](#FlyRandom English README )
+[English README](#FlyRandom English README)
 
 **轻巧、快速、全能的随机数生成器**
 
