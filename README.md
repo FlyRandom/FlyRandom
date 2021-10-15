@@ -8,10 +8,10 @@ FlyRandom是一款随机数生成器，目前主要由HenryJiu维护
 
 ## 主要功能：
 
-- **随机数生成：**支持无限最大值和最小值的随机数生成，并且支持自定义个数
-- **自定义输出列表：**不再输出一个个数字，您可以通过设置配置每个数字应输出哪些文本
-- **滚动随机数：**当抽查个数为1时，支持滚动随机数，更加未知与刺激
-- **管理员设置：**设置项加密，仅拥有管理员密码的人可进行更改，防止篡改设置
+- 随机数生成：支持无限最大值和最小值的随机数生成，并且支持自定义个数
+- 自定义输出列表：不再输出一个个数字，您可以通过设置配置每个数字应输出哪些文本
+- 滚动随机数：当抽查个数为1时，支持滚动随机数，更加未知与刺激
+- 管理员设置：设置项加密，仅拥有管理员密码的人可进行更改，防止篡改设置
 
 ## 适用场景：
 
@@ -48,16 +48,16 @@ GitHub Releases：https://github.com/FlyRandom/FlyRandom/releases
 
 **Currently the program is not available in English, if you want to help translate it, you can submit Pull requests to this project**
 
-**Lightweight, Fast, All-in-One Random Number Generator
+**Lightweight, Fast, All-in-One Random Number Generator**
 
 FlyRandom is a random number generator, currently mainly maintained by HenryJiu
 
 ## Main features.
 
-- **Random number generation:** supports random number generation with infinite maximum and minimum values, and supports custom number
-- **Custom output list:** instead of outputting one number, you can configure which text should be output for each number by setting
-- **Rolling random numbers:** When the number of random numbers is 1, support rolling random numbers, more unknown and exciting
-- **Administrator Settings:** The setting items are encrypted, and only those who have the administrator password can change them to prevent tampering with the settings
+- Random number generation: supports random number generation with infinite maximum and minimum values, and supports custom number
+- Custom output list: instead of outputting one number, you can configure which text should be output for each number by setting
+- Rolling random numbers: When the number of random numbers is 1, support rolling random numbers, more unknown and exciting
+- Administrator Settings: The setting items are encrypted, and only those who have the administrator password can change them to prevent tampering with the settings
 
 ## Applicable scenarios.
 
